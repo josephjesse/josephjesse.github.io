@@ -1,9 +1,10 @@
 @charset "utf-8";
 @font-face {
-font-family: "CustomFont";
-	src: url('fonts/Indira_K/Indira_K.ttf') format('truetype');}
-/* CSS Document */
+        font-family: "Indira_K";		
+	src: url('fonts/Indira_K/Indira_K.ttf') format('truetype');
+}
 
+/* CSS Document */
 
 *
 {
