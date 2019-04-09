@@ -1,5 +1,7 @@
 @charset "utf-8";
-
+@font-face {
+font-family: "CustomFont";
+	src: url('fonts/Indira_K/Indira_K.ttf') format('truetype');
 /* CSS Document */
 
 
@@ -177,7 +179,7 @@ p
 }
 #head {
 	font-family: "Indira_K";
-	src: url('fonts/Indira_K/Indira_K.ttf') format('truetype');
+	
 	font-size: 19px;
 	letter-spacing: 2px;
 	text-shadow: 1px 1px 0px #000;
