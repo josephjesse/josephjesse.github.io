@@ -216,9 +216,8 @@ p
     font-size: 9px;
 }
 
-
-
 /*ANIMATIONS*/
+
 .container
 {
 	animation:open 0.2s;
