@@ -174,7 +174,8 @@ p
 	line-height:110%;
 	margin-bottom:6px;
 }
-#Wlinks
+#Clinks
+
 {
 	margin:4px;
 margin-top:4px;
@@ -234,5 +235,5 @@ margin-top:4px;
 	50% {transform:scale(1,1.05);}
 	100% {transform:scale(1,1);}
 }
-#Wabout{animation-delay:0.03s;}
-#Wlinks{animation-delay:0.9s;}
+#Cabout{animation-delay:0.03s;}
+#Clinks{animation-delay:0.9s;}
