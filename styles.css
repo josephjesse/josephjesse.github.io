@@ -72,7 +72,7 @@ body
 {
 	background:#eeeeee;
 	border:3px solid #cccccc;
-	border-image:url(images/borderInnerHead.png) 3 repeat;
+	border-image:url(images/borderInnerTooltip.png) 3 repeat;
 }
 .inner,.li a>div
 {
