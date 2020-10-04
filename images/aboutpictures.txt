@@ -1,5 +1,3 @@
 >bg.png, borderContainer.png, and favicon.png is from Minecraft. All right reserved.
 
 >all border*.png and the shadedEdges.png is from https://orteil.dashnet.org/
-
->all icons*.png was made by me uwu
